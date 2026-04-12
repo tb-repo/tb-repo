@@ -10,7 +10,7 @@ I’m particularly interested in the intersection of AI and data platforms—exp
 
 ---
 
-### 🚀 Key Focus Areas
+### My Key Focus Areas
 
 - **Cloud-native Database Architecture (AWS RDS & Aurora)**  
   Designing scalable, resilient, and high-performance data platforms
