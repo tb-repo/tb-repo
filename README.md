@@ -27,6 +27,14 @@ I use GitHub to document architecture experiments, engineering projects, automat
 
 ## 🚀 Selected Work
 
+### 🛒 Lumora E-Commerce DevOps Platform
+
+End-to-end cloud-native e-commerce platform developed as a capstone project, demonstrating **cloud architecture, containerization, Infrastructure as Code, CI/CD, security, observability, and DevOps automation**.
+
+**Focus Areas:** AWS • Docker • Infrastructure as Code • CI/CD • DevOps • Observability • Security • Platform Engineering
+
+*Hero Vired — Post Graduate Program in Multi-Cloud Architecture & DevOps | Capstone Project*
+
 ### 🗄️ Database & Performance Engineering
 
 **SQL Optimizer**  
