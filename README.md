@@ -35,6 +35,8 @@ End-to-end cloud-native e-commerce platform developed as a capstone project, dem
 
 *Hero Vired — Post Graduate Program in Multi-Cloud Architecture & DevOps | Capstone Project*
 
+---
+
 ### 🗄️ Database & Performance Engineering
 
 **SQL Optimizer**  
